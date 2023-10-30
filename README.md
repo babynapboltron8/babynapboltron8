@@ -36,8 +36,8 @@
   <p>
     <h4>I'm a passionate software developer dedicated to crafting elegant, efficient, and innovative solutions. With a keen eye for detail and a love for problem-solving, I thrive in the world of code, creating robust applications that make a real impact. <br/>My mission is to turn complex concepts into user-friendly experiences, bringing ideas to life through the magic of software development.</h4> 
   </p>
+  <img align="left"  src="file:///C:/Users/Admin/Documents/snake.svg"  />
 </div>
-<img align="left"  src="file:///C:/Users/Admin/Documents/snake.svg"  />
 ###
 
   
