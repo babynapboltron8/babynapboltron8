@@ -40,7 +40,7 @@
 <hr/>
 <div>
   <p>
-    <h4>I'm a passionate software developer dedicated to crafting elegant, efficient, and innovative solutions. With a keen eye for detail and a love for problem-solving, I thrive in the world of code, creating robust applications that make a real impact. <br/>My mission is to turn complex concepts into user-friendly experiences, bringing ideas to life through the magic of software development.</h4> 
+    <h4>As a full-stack web developer and general virtual assistant, I am committed to creating sophisticated, streamlined, and inventive solutions. I possess a meticulous attention to detail and a knack for tackling challenges, thriving in the realm of programming by delivering resilient applications that drive tangible results. My goal is to transform intricate concepts into intuitive user experiences, breathing life into concepts through the enchantment of software development.</h4> 
   </p>
 
 ###
