@@ -41,5 +41,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
+</br>
 ###
+
+<p>As a software developer, I excel in creating dynamic and interactive web applications by leveraging my expertise in Bootstrap and React.js, complemented by a strong foundation in JavaScript and proficiency in C#. I specialize in crafting visually appealing and responsive user interfaces, collaborating closely with cross-functional teams to deliver robust and scalable software solutions that prioritize exceptional user experiences. With a commitment to continuous learning and professional development, I strive to stay abreast of the latest technologies and best practices to drive innovation and success in every project.</p>
