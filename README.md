@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Baby Nap Boltron a passionate Full-stack Web Developer and  General Virtual Assistant from Philppines</h1>
+<h1 align="center">Hi! I'm Baby Nap Boltron a passionate Software Developer</h1>
 
 ###
 
