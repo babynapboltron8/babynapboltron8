@@ -1,7 +1,7 @@
 <h2 align="left"Hi! I'm Baby Nap Boltron a passionate Software Developer</h2>
 
 ###
-<!-- <img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> -->
+<img align="right" width="350" height="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 <h3> As a software developer, I'm proficient specializing in full-stack development. My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB.
  Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</h4>
 
