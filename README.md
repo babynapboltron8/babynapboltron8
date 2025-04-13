@@ -2,7 +2,8 @@
 
 ###
 <!-- <img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> -->
-<h4 width= "500">As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</h4>
+<h2 width= "500">As a software developer, I'm proficient specializing in full-stack development. My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB.  <br>
+ Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</h2>
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" style="margin-right: 20px;" />
