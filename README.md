@@ -19,13 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo" style="margin-right: 20px;" />
 </div>
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+
 ###
 
 <div align="left">
 <!--   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> -->
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ <img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 <br>
 <p>As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</p>
