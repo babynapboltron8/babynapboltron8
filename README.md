@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo" style="margin-right: 20px;" />
 </div>
 
+<p>As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</p>
+
 ###
 
 <div align="left">
@@ -26,5 +28,5 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-<br>
-<p>As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</p>
+
+
