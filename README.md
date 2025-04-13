@@ -2,6 +2,7 @@
 
 ###
 <!-- <img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  /> -->
+<p>As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</p>
 ###
 
  <div align="left">
@@ -14,12 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" style=margin-right: 20; />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo" style="margin-right: 20px;" />
 </div>
-
-<p>As a software developer, I'm proficient specializing in full-stack development. <br>My technical expertise includes Sass, JavaScript, Node.js, Express, and MongoDB. Additionally, I bring a diverse professional background in Social work with community engagement, and am fluent in English, with conversational skills in Tagalog and Bisaya.</p>
 
 ###
 
