@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 ###
 
  <div align="left">
@@ -21,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="35" alt="socketio logo" style="margin-right: 20px;" />
 </div>
-
+<img align="right" width="250" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 ###
 
 <div align="left">
