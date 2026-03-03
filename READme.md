@@ -19,12 +19,6 @@ I like keeping things simple, user-friendly, and focused on solving real problem
 </div>
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/babynapboltron8/babynapboltron8/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left" >
 <!--   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> -->
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
