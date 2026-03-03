@@ -17,6 +17,11 @@ I like keeping things simple, user-friendly, and focused on solving real problem
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
   <img width="12" />
 </div>
+###
+
+###
+
+<img src="https://raw.githubusercontent.com/babynapboltron8/babynapboltron8/output/snake.svg" alt="Snake animation" />
 
 ###
 
