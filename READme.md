@@ -4,6 +4,8 @@
 <h3> I’m a software developer who enjoys building practical and meaningful applications.
 I like keeping things simple, user-friendly, and focused on solving real problems.</h3>
 
+</br>
+
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" style="margin-right: 20px;" />
@@ -16,6 +18,8 @@ I like keeping things simple, user-friendly, and focused on solving real problem
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
   <img width="12" />
 </div>
+
+</br>
 
 <div align="left" >
 <!--   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /> -->
