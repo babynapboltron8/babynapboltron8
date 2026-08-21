@@ -1,6 +1,6 @@
 <p align="left">
   Hi, I'm Nap 👋<br>
-  I'm a Software Developer from the Philippines, specializing in backend development with C# and ASP.NET Core.
+  I'm a Software Developer from the Philippines!
 </p>
 
 ###
