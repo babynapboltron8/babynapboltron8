@@ -13,7 +13,7 @@
   🔧 Building maintainable web applications and RESTful APIs<br>
   🏗️ Focused on backend development, database design, and software architecture<br>
   🚀 Experienced with ASP.NET Core, Entity Framework Core, and relational databases<br>
-  🎲 Fun fact: I transitioned from social work to software development
+  🎲 Fun fact: I transitioned from public servant to software development
 </p>
 
 ###
