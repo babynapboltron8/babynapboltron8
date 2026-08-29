@@ -12,7 +12,7 @@
 <p align="left">
   🔧 Building maintainable web applications and RESTful APIs<br>
   🏗️ Focused on backend development, database design, and software architecture<br>
-  🚀 Experienced with ASP.NET Core, Entity Framework Core, and relational databases<br>
+  🚀 Experienced with SQL Queries, ASP.NET Core, Entity Framework Core, and Relational Databases<br>
   🎲 Fun fact: I transitioned from public servant to software development
 </p>
 
